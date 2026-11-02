@@ -14,9 +14,9 @@ Compatible target: ps2avrGB USB 20A0:422D, firmware 1.5.0; macOS 14 or later; Ap
 
 ## Download
 
-Get the complete source archive, checksum, and illustrated manual from the [0.8.0 pre-release](https://github.com/CellularDeath/Koolertron-Configurator/releases/tag/v0.8.0). Use the attached Koolertron-Configurator-0.8.0-source.zip. GitHub’s automatically generated Source code archives come from an older repository snapshot and do not include the complete 0.8.0 source.
+Get the complete source archive, checksum, and illustrated manual from the [0.8.0 pre-release](https://github.com/CellularDeath/Koolertron-Configurator/releases/tag/v0.8.0). Use the attached Koolertron-Configurator-0.8.0-source-revised.zip. GitHub’s automatically generated Source code archives come from an older repository snapshot and do not include the complete 0.8.0 source.
 
-[Download the 0.8 manual (PDF)](https://github.com/CellularDeath/Koolertron-Configurator/releases/download/v0.8.0/Koolertron-Configurator-User-Manual-v0.8.pdf)
+[Download the 0.8 manual (PDF)](https://github.com/CellularDeath/Koolertron-Configurator/releases/download/v0.8.0/Koolertron-Configurator-User-Manual-v0.8-revised.pdf)
 
 ## Build
 
