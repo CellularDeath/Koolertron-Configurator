@@ -6,7 +6,7 @@ An independent macOS configurator for the Koolertron ps2avrGB keypad (USB 20A0:4
 
 ## Download
 
-Get the source archive and illustrated manual from the [latest release](https://github.com/CellularDeath/Koolertron-Configurator/releases/latest). There is no signed or notarized app download; build from source on your Mac.
+Get the source archive, checksum, and illustrated manual from the [v0.3.0 pre-release](https://github.com/CellularDeath/Koolertron-Configurator/releases/tag/v0.3.0). There is no signed or notarized app download; build from source on your Mac.
 
 ## Build
 
@@ -24,4 +24,4 @@ Version 0.3 supports ordinary key assignments and existing stored-macro referenc
 
 Only ps2avrGB USB ID 20A0:422D with firmware 1.5.0 is established as compatible. FN/FN2/FN3 are inspection-only. New macros, shortcut/modifier recording, multimedia assignments, and other-layer uploads are not implemented. Physical validation covered only the top-left key and the A output. An initial readback mismatch occurred; its cause remains unknown, and the writer stops on any mismatch.
 
-See the release's device support notes and manual for the recovery boundaries and full feature details. Tests use simulated device I/O and do not program a keypad.
+See the release notes and manual for the recovery boundaries and feature details. Tests use simulated device I/O and do not program a keypad.
